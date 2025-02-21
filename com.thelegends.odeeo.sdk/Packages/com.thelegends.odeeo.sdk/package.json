@@ -16,5 +16,7 @@
     "name": "Unity-UPM-Packages",
     "url": "https://github.com/Unity-UPM-Packages"
   },
-  "dependencies": {}
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.183"
+  }
 }
