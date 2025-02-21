@@ -3,6 +3,6 @@
     {
         public class OdeeoBuildConfig
         {
-            public const string SDK_VERSION = "v3.4.3+542-3ed5239-release";
+            public const string SDK_VERSION = "v3.4.4+543-64055ee-release";
         }
     }

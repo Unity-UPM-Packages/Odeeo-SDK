@@ -1,9 +1,9 @@
 <dependencies>
   <androidPackages>
-    <androidPackage spec="io.odeeo:odeeo-sdk:3.4.3">
+    <androidPackage spec="io.odeeo:odeeo-sdk:3.4.4">
     </androidPackage>
   </androidPackages>
   <iosPods>
-    <iosPod name="OdeeoSDK" version="3.4.1" />
+    <iosPod name="OdeeoSDK" version="3.4.4" />
   </iosPods>
 </dependencies>
