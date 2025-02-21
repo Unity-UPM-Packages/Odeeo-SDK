@@ -1,0 +1,19 @@
+{
+    "name": "Odeeo.Editor",
+    "references": [
+        "GUID:a1d7dc17f58ef4bdfb2308ebd5b2494f"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,9 @@
+<dependencies>
+  <androidPackages>
+    <androidPackage spec="io.odeeo:odeeo-sdk:3.4.3">
+    </androidPackage>
+  </androidPackages>
+  <iosPods>
+    <iosPod name="OdeeoSDK" version="3.4.1" />
+  </iosPods>
+</dependencies>
