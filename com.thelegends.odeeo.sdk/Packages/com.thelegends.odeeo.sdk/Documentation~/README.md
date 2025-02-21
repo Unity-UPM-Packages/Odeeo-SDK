@@ -1,7 +1,7 @@
-# projectscope.projectname
+# com.thelegends.odeeo.sdk
 
 
-A ProjectScope.ProjectName package for the [Unity](https://unity.com/) Game Engine.
+A com.thelegends.odeeo.sdk package for the [Unity](https://unity.com/) Game Engine.
 
 ## Installing
 
@@ -18,10 +18,10 @@ The recommended installation method is though the unity package manager.
   - Name: `TripSoft`
   - URL: `https://verdaccio.tripdev.io`
   - Scope(s):
-    - `projectscope-x`
+    - `com.thelegends`
 - Open the Unity Package Manager window
 - Change the Registry from Unity to `My Registries`
-- Add the `ProjectScope.ProjectName` package
+- Add the `com.thelegends.odeeo.sdk` package
 
 ## Documentation
 

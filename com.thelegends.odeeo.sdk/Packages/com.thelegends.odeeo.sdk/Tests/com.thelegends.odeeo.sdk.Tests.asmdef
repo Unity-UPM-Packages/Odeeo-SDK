@@ -1,10 +1,10 @@
 {
-    "name": "ProjectScope.ProjectName.Tests",
-    "rootNamespace": "ProjectScope.ProjectName.Tests",
+    "name": "com.thelegends.odeeo.sdk.Tests",
+    "rootNamespace": "com.thelegends.odeeo.sdk.Tests",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "ProjectScope.ProjectName"
+        "com.thelegends.odeeo.sdk"
     ],
     "includePlatforms": [
         "Editor"

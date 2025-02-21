@@ -1,0 +1,20 @@
+{
+  "name": "com.thelegends.odeeo.sdk",
+  "displayName": "Odeeo Audio Ads SDK",
+  "description": "Odeeo Audio Ads SDK.",
+  "keywords": [],
+  "version": "1.0.0",
+  "documentationUrl": "https://github.com/Unity-UPM-Packages/Odeeo-SDK#documentation",
+  "changelogUrl": "https://github.com/Unity-UPM-Packages/Odeeo-SDK/releases",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "repository": "https://github.com/Unity-UPM-Packages/Odeeo-SDK.git",
+    "url": "https://github.com/Unity-UPM-Packages/Odeeo-SDK.git"
+  },
+  "author": {
+    "name": "Unity-UPM-Packages",
+    "url": "https://github.com/Unity-UPM-Packages"
+  },
+  "dependencies": {}
+}

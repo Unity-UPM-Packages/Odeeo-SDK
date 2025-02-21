@@ -1,12 +1,10 @@
 {
-    "name": "ProjectScope.ProjectName.Editor",
-    "rootNamespace": "ProjectScope.ProjectName.Editor",
+    "name": "com.thelegends.odeeo.sdk.Demo",
+    "rootNamespace": "com.thelegends.odeeo.sdk.Demo",
     "references": [
-        "ProjectScope.ProjectName"
+        "com.thelegends.odeeo.sdk"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

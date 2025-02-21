@@ -1,9 +1,7 @@
 {
-    "name": "ProjectScope.ProjectName.Demo",
-    "rootNamespace": "ProjectScope.ProjectName.Demo",
-    "references": [
-        "ProjectScope.ProjectName"
-    ],
+    "name": "com.thelegends.odeeo.sdk",
+    "rootNamespace": "com.thelegends.odeeo.sdk",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

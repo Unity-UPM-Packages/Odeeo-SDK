@@ -1,12 +1,32 @@
-# upm-template
+# com.thelegends.odeeo.sdk
 
-A Unity package manager repository template for quickly creating and setting up new UPM package projects in Unity.
 
-## Getting Started
+A com.thelegends.odeeo.sdk package for the [Unity](https://unity.com/) Game Engine.
 
-1. Create a new repository in GitHub using this template
-2. Clone to your local machine
-3. Run the `InitializeTemplate.ps1` script from powershell, a command line, or terminal
-4. Follow prompt instructions
-5. Open in Unity to generate the missing meta files
-6. Check in project to source control
+## Installing
+
+Requires Unity 2022.3.46 LTS or higher.
+
+The recommended installation method is though the unity package manager.
+
+### Via Unity Package Manager and OpenUPM
+
+- Open your Unity project settings
+- Select the `Package Manager`
+![scoped-registries](https://europe1.discourse-cdn.com/unity/original/3X/8/6/86d23e43ae16b26badf2072280c9d4cbe03d568e.png)
+- Add the package registry:
+  - Name: `TripSoft`
+  - URL: `https://verdaccio.tripdev.io`
+  - Scope(s):
+    - `com.thelegends`
+- Open the Unity Package Manager window
+- Change the Registry from Unity to `My Registries`
+- Add the `com.thelegends.odeeo.sdk` package
+
+## Documentation
+
+### Project Setup
+
+```csharp
+// TODO
+```
